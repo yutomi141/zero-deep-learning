@@ -1,0 +1,7 @@
+numpy
+matplotlib
+jupyterlab
+ipykernel
+requests
+beautifulsoup4
+lark
